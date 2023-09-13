@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David.Feiner\\source\\repos\\FunkyFarm\\FunkyFarm\\FunkyFarm.csproj",
+      "projectUniqueName": "C:\\Users\\David.Feiner\\Source\\Repos\\DavidFeiner\\FunkyFarm\\FunkyFarm\\FunkyFarm\\FunkyFarm.csproj",
       "projectName": "FunkyFarm",
-      "projectPath": "C:\\Users\\David.Feiner\\source\\repos\\FunkyFarm\\FunkyFarm\\FunkyFarm.csproj",
+      "projectPath": "C:\\Users\\David.Feiner\\Source\\Repos\\DavidFeiner\\FunkyFarm\\FunkyFarm\\FunkyFarm\\FunkyFarm.csproj",
       "packagesPath": "C:\\Users\\David.Feiner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David.Feiner\\source\\repos\\FunkyFarm\\FunkyFarm\\obj\\",
+      "outputPath": "C:\\Users\\David.Feiner\\Source\\Repos\\DavidFeiner\\FunkyFarm\\FunkyFarm\\FunkyFarm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
